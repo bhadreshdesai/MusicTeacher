@@ -28,6 +28,8 @@ $(document).ready(function () {
             };
             reader.readAsText(fileToLoad, 'UTF-8');
             $("#fileName").val(fileToLoad.name);
+            // so we can reload the same file again
+            $("#fileToLoad").val("");
         }
     });
 });
