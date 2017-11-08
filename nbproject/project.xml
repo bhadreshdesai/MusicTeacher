@@ -18,6 +18,17 @@
                 <file localPath="public_html/ext/abcjs/abcjs_plugin-min.js" path="abcjs_plugin-min.js"/>
                 <file localPath="public_html/ext/abcjs/abcjs_plugin.user.js" path="abcjs_plugin.user.js"/>
             </library>
+            <library name="font-awesome" version="4.7.0">
+                <file localPath="public_html/ext/font-awesome/css/font-awesome.css" path="css/font-awesome.css"/>
+                <file localPath="public_html/ext/font-awesome/css/font-awesome.css.map" path="css/font-awesome.css.map"/>
+                <file localPath="public_html/ext/font-awesome/css/font-awesome.min.css" path="css/font-awesome.min.css"/>
+                <file localPath="public_html/ext/font-awesome/fonts/FontAwesome.otf" path="fonts/FontAwesome.otf"/>
+                <file localPath="public_html/ext/font-awesome/fonts/fontawesome-webfont.eot" path="fonts/fontawesome-webfont.eot"/>
+                <file localPath="public_html/ext/font-awesome/fonts/fontawesome-webfont.svg" path="fonts/fontawesome-webfont.svg"/>
+                <file localPath="public_html/ext/font-awesome/fonts/fontawesome-webfont.ttf" path="fonts/fontawesome-webfont.ttf"/>
+                <file localPath="public_html/ext/font-awesome/fonts/fontawesome-webfont.woff" path="fonts/fontawesome-webfont.woff"/>
+                <file localPath="public_html/ext/font-awesome/fonts/fontawesome-webfont.woff2" path="fonts/fontawesome-webfont.woff2"/>
+            </library>
             <library name="jquery" version="3.2.1">
                 <file localPath="public_html/ext/jquery/core.js" path="core.js"/>
                 <file localPath="public_html/ext/jquery/jquery.js" path="jquery.js"/>
