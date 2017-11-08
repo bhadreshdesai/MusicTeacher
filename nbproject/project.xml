@@ -5,57 +5,6 @@
         <data xmlns="http://www.netbeans.org/ns/clientside-project/1">
             <name>MusicTeacher</name>
         </data>
-        <libraries xmlns="http://www.netbeans.org/ns/cdnjs-libraries/1">
-            <library name="abcjs" version="3.1.1">
-                <file localPath="public_html/ext/abcjs/abcjs_basic_midi-min.js" path="abcjs_basic_midi-min.js"/>
-                <file localPath="public_html/ext/abcjs/abcjs_basic_noraphael-min.js" path="abcjs_basic_noraphael-min.js"/>
-                <file localPath="public_html/ext/abcjs/abcjs_basic-min.js" path="abcjs_basic-min.js"/>
-                <file localPath="public_html/ext/abcjs/abcjs_editor_midi-min.js" path="abcjs_editor_midi-min.js"/>
-                <file localPath="public_html/ext/abcjs/abcjs_editor_noraphael-min.js" path="abcjs_editor_noraphael-min.js"/>
-                <file localPath="public_html/ext/abcjs/abcjs_editor-min.js" path="abcjs_editor-min.js"/>
-                <file localPath="public_html/ext/abcjs/abcjs_noraphael_nojquery-min.js" path="abcjs_noraphael_nojquery-min.js"/>
-                <file localPath="public_html/ext/abcjs/abcjs_plugin_nojquery-min.js" path="abcjs_plugin_nojquery-min.js"/>
-                <file localPath="public_html/ext/abcjs/abcjs_plugin-min.js" path="abcjs_plugin-min.js"/>
-                <file localPath="public_html/ext/abcjs/abcjs_plugin.user.js" path="abcjs_plugin.user.js"/>
-            </library>
-            <library name="font-awesome" version="4.7.0">
-                <file localPath="public_html/ext/font-awesome/css/font-awesome.css" path="css/font-awesome.css"/>
-                <file localPath="public_html/ext/font-awesome/css/font-awesome.css.map" path="css/font-awesome.css.map"/>
-                <file localPath="public_html/ext/font-awesome/css/font-awesome.min.css" path="css/font-awesome.min.css"/>
-                <file localPath="public_html/ext/font-awesome/fonts/FontAwesome.otf" path="fonts/FontAwesome.otf"/>
-                <file localPath="public_html/ext/font-awesome/fonts/fontawesome-webfont.eot" path="fonts/fontawesome-webfont.eot"/>
-                <file localPath="public_html/ext/font-awesome/fonts/fontawesome-webfont.svg" path="fonts/fontawesome-webfont.svg"/>
-                <file localPath="public_html/ext/font-awesome/fonts/fontawesome-webfont.ttf" path="fonts/fontawesome-webfont.ttf"/>
-                <file localPath="public_html/ext/font-awesome/fonts/fontawesome-webfont.woff" path="fonts/fontawesome-webfont.woff"/>
-                <file localPath="public_html/ext/font-awesome/fonts/fontawesome-webfont.woff2" path="fonts/fontawesome-webfont.woff2"/>
-            </library>
-            <library name="jquery" version="3.2.1">
-                <file localPath="public_html/ext/jquery/core.js" path="core.js"/>
-                <file localPath="public_html/ext/jquery/jquery.js" path="jquery.js"/>
-                <file localPath="public_html/ext/jquery/jquery.min.js" path="jquery.min.js"/>
-                <file localPath="public_html/ext/jquery/jquery.min.map" path="jquery.min.map"/>
-                <file localPath="public_html/ext/jquery/jquery.slim.js" path="jquery.slim.js"/>
-                <file localPath="public_html/ext/jquery/jquery.slim.min.js" path="jquery.slim.min.js"/>
-                <file localPath="public_html/ext/jquery/jquery.slim.min.map" path="jquery.slim.min.map"/>
-            </library>
-            <library name="twitter-bootstrap" version="3.3.7">
-                <file localPath="public_html/ext/twitter-bootstrap/css/bootstrap-theme.css" path="css/bootstrap-theme.css"/>
-                <file localPath="public_html/ext/twitter-bootstrap/css/bootstrap-theme.css.map" path="css/bootstrap-theme.css.map"/>
-                <file localPath="public_html/ext/twitter-bootstrap/css/bootstrap-theme.min.css" path="css/bootstrap-theme.min.css"/>
-                <file localPath="public_html/ext/twitter-bootstrap/css/bootstrap-theme.min.css.map" path="css/bootstrap-theme.min.css.map"/>
-                <file localPath="public_html/ext/twitter-bootstrap/css/bootstrap.css" path="css/bootstrap.css"/>
-                <file localPath="public_html/ext/twitter-bootstrap/css/bootstrap.css.map" path="css/bootstrap.css.map"/>
-                <file localPath="public_html/ext/twitter-bootstrap/css/bootstrap.min.css" path="css/bootstrap.min.css"/>
-                <file localPath="public_html/ext/twitter-bootstrap/css/bootstrap.min.css.map" path="css/bootstrap.min.css.map"/>
-                <file localPath="public_html/ext/twitter-bootstrap/fonts/glyphicons-halflings-regular.eot" path="fonts/glyphicons-halflings-regular.eot"/>
-                <file localPath="public_html/ext/twitter-bootstrap/fonts/glyphicons-halflings-regular.svg" path="fonts/glyphicons-halflings-regular.svg"/>
-                <file localPath="public_html/ext/twitter-bootstrap/fonts/glyphicons-halflings-regular.ttf" path="fonts/glyphicons-halflings-regular.ttf"/>
-                <file localPath="public_html/ext/twitter-bootstrap/fonts/glyphicons-halflings-regular.woff" path="fonts/glyphicons-halflings-regular.woff"/>
-                <file localPath="public_html/ext/twitter-bootstrap/fonts/glyphicons-halflings-regular.woff2" path="fonts/glyphicons-halflings-regular.woff2"/>
-                <file localPath="public_html/ext/twitter-bootstrap/js/bootstrap.js" path="js/bootstrap.js"/>
-                <file localPath="public_html/ext/twitter-bootstrap/js/bootstrap.min.js" path="js/bootstrap.min.js"/>
-                <file localPath="public_html/ext/twitter-bootstrap/js/npm.js" path="js/npm.js"/>
-            </library>
-        </libraries>
+        <libraries xmlns="http://www.netbeans.org/ns/cdnjs-libraries/1"/>
     </configuration>
 </project>
